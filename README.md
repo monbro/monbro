@@ -45,9 +45,9 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='11' x='3' y='11' rx='2' ry='2'/%3E%3Cpath d='M7 11V7a5 5 0 0 1 10 0v4'/%3E%3C/svg%3E" alt="lock" height="22"/>
+  <img src="assets/icons/lock.svg" alt="lock" height="22"/>
   &nbsp;Currently Building&nbsp;
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='11' x='3' y='11' rx='2' ry='2'/%3E%3Cpath d='M7 11V7a5 5 0 0 1 10 0v4'/%3E%3C/svg%3E" alt="lock" height="22"/>
+  <img src="assets/icons/lock.svg" alt="lock" height="22"/>
 </h2>
 
 <div align="center">
@@ -61,7 +61,7 @@
 <tr>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='11' x='3' y='11' rx='2' ry='2'/%3E%3Cpath d='M7 11V7a5 5 0 0 1 10 0v4'/%3E%3C/svg%3E" height="28"/>
+<img src="assets/icons/lock.svg" alt="lock" height="28"/>
 
 **Social Platform**
 
@@ -76,7 +76,7 @@ Built for humans, not algorithms.
 </td>
 <td align="center" width="33%">
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='11' x='3' y='11' rx='2' ry='2'/%3E%3Cpath d='M7 11V7a5 5 0 0 1 10 0v4'/%3E%3C/svg%3E" height="28"/>
+<img src="assets/icons/lock.svg" alt="lock" height="28"/>
 
 **Solo-Selbständigen Kompass**
 
@@ -91,7 +91,7 @@ for [stimmigwirken.de](https://www.stimmigwirken.de) ·<br/>
 </td>
 <td align="center" width="34%">
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect width='18' height='11' x='3' y='11' rx='2' ry='2'/%3E%3Cpath d='M7 11V7a5 5 0 0 1 10 0v4'/%3E%3C/svg%3E" height="28"/>
+<img src="assets/icons/lock.svg" alt="lock" height="28"/>
 
 **Stealth Sales Page**
 
@@ -394,40 +394,40 @@ Bridges two productivity surfaces via browser-layer automation.
 <div align="center">
 
 <!-- Code2: core development identity -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m18 16 4-4-4-4'/%3E%3Cpath d='m6 8-4 4 4 4'/%3E%3Cpath d='m14.5 4-5 16'/%3E%3C/svg%3E" alt="Code2" title="Code2 · core development"/>
+<img src="assets/icons/code2.svg" alt="Code2" title="Code2 · core development"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Globe: semantic web & open APIs -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20'/%3E%3Cpath d='M2 12h20'/%3E%3C/svg%3E" alt="Globe" title="Globe · semantic web & open APIs"/>
+<img src="assets/icons/globe.svg" alt="Globe" title="Globe · semantic web & open APIs"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Terminal: backend engineering -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='4 17 10 11 4 5'/%3E%3Cline x1='12' x2='20' y1='19' y2='19'/%3E%3C/svg%3E" alt="Terminal" title="Terminal · backend engineering"/>
+<img src="assets/icons/terminal.svg" alt="Terminal" title="Terminal · backend engineering"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Database: data layer & API storage -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cellipse cx='12' cy='5' rx='9' ry='3'/%3E%3Cpath d='M3 5V19A9 3 0 0 0 21 19V5'/%3E%3Cpath d='M3 12A9 3 0 0 0 21 12'/%3E%3C/svg%3E" alt="Database" title="Database · data layer"/>
+<img src="assets/icons/database.svg" alt="Database" title="Database · data layer"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Zap: performance & speed -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z'/%3E%3C/svg%3E" alt="Zap" title="Zap · performance"/>
+<img src="assets/icons/zap.svg" alt="Zap" title="Zap · performance"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Layers: full-stack architecture -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z'/%3E%3Cpath d='m6.08 9.5-3.5 1.6a1 1 0 0 0 0 1.81l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9a1 1 0 0 0 0-1.83l-3.5-1.59'/%3E%3Cpath d='m6.08 14.5-3.5 1.6a1 1 0 0 0 0 1.81l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9a1 1 0 0 0 0-1.83l-3.5-1.59'/%3E%3C/svg%3E" alt="Layers" title="Layers · full-stack architecture"/>
+<img src="assets/icons/layers.svg" alt="Layers" title="Layers · full-stack architecture"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Package: open-source packages -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m7.5 4.27 9 5.15'/%3E%3Cpath d='M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z'/%3E%3Cpath d='m3.3 7 8.7 5 8.7-5'/%3E%3Cpath d='M12 22V12'/%3E%3C/svg%3E" alt="Package" title="Package · open-source packages"/>
+<img src="assets/icons/package.svg" alt="Package" title="Package · open-source packages"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- GitBranch: version control -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cline x1='6' x2='6' y1='3' y2='15'/%3E%3Ccircle cx='18' cy='6' r='3'/%3E%3Ccircle cx='6' cy='18' r='3'/%3E%3Cpath d='M18 9a9 9 0 0 1-9 9'/%3E%3C/svg%3E" alt="GitBranch" title="GitBranch · version control"/>
+<img src="assets/icons/git-branch.svg" alt="GitBranch" title="GitBranch · version control"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Share2: API networking topology -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='18' cy='5' r='3'/%3E%3Ccircle cx='6' cy='12' r='3'/%3E%3Ccircle cx='18' cy='19' r='3'/%3E%3Cline x1='8.59' x2='15.42' y1='13.51' y2='17.49'/%3E%3Cline x1='15.41' x2='8.59' y1='6.51' y2='10.49'/%3E%3C/svg%3E" alt="Share2" title="Share2 · API networking"/>
+<img src="assets/icons/share2.svg" alt="Share2" title="Share2 · API networking"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- MapPin: Berlin location -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0'/%3E%3Ccircle cx='12' cy='10' r='3'/%3E%3C/svg%3E" alt="MapPin" title="MapPin · Berlin, Germany"/>
+<img src="assets/icons/map-pin.svg" alt="MapPin" title="MapPin · Berlin, Germany"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Music2: SoundCloud API & music-tech -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='8' cy='18' r='4'/%3E%3Cpath d='M12 18V2l7 4'/%3E%3C/svg%3E" alt="Music2" title="Music2 · SoundCloud API / music-tech"/>
+<img src="assets/icons/music2.svg" alt="Music2" title="Music2 · SoundCloud API / music-tech"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Puzzle: Chrome extensions & plugins -->
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 24 24' fill='none' stroke='%2358a6ff' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M19.439 7.85c-.049.322.059.648.289.878l1.568 1.568c.47.47.706 1.087.706 1.704s-.235 1.233-.706 1.704l-1.611 1.611a.98.98 0 0 1-.837.276c-.47-.07-.802-.48-.968-.925a2.501 2.501 0 1 0-3.214 3.214c.446.166.855.497.925.968a.979.979 0 0 1-.276.837l-1.61 1.61a2.404 2.404 0 0 1-1.705.707 2.402 2.402 0 0 1-1.704-.706l-1.568-1.568a1.026 1.026 0 0 0-.877-.29c-.493.074-.84.504-1.02.968a2.5 2.5 0 1 1-3.237-3.237c.464-.18.894-.527.967-1.02a1.026 1.026 0 0 0-.289-.877l-1.568-1.568A2.402 2.402 0 0 1 1.998 12c0-.617.236-1.234.706-1.704L4.23 8.77c.24-.24.581-.353.917-.303.515.077.877.528 1.073 1.01a2.5 2.5 0 1 0 3.259-3.259c-.482-.196-.933-.558-1.01-1.073-.05-.336.062-.676.303-.917l1.525-1.525A2.402 2.402 0 0 1 12 1.998c.617 0 1.234.236 1.704.706l1.568 1.568c.23.23.556.338.877.29.493-.074.84-.504 1.02-.968a2.5 2.5 0 1 1 3.237 3.237c-.464.18-.894.527-.967 1.02z'/%3E%3C/svg%3E" alt="Puzzle" title="Puzzle · browser extensions & plugins"/>
+<img src="assets/icons/puzzle.svg" alt="Puzzle" title="Puzzle · browser extensions & plugins"/>
 
 </div>
 
