@@ -376,7 +376,7 @@ Bridges two productivity surfaces via browser-layer automation.
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monbro&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="100%"/>
+  <img src="https://img.shields.io/badge/⭐_ACHIEVEMENTS_⭐-GitHub%20Trophies%20%7C%20Stars%20%7C%20Contributions-58a6ff?style=for-the-badge&labelColor=0d1117&color=1a3a5c" width="100%"/>
 </div>
 
 <br/>
