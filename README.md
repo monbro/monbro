@@ -10,9 +10,11 @@
 
 <!-- TYPING IDENTITY LINE -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=820&height=52&lines=Building+developer+tooling+at+the+intersection+of+semantics+and+APIs;JavaScript+·+Go+·+Node.js+·+Semantic+Technologies;Open-source+by+default.+Berlin-based.+Precision-driven." alt="Typing SVG"/>
-  </a>
+  <img src="https://img.shields.io/badge/Building-developer%20tooling%20at%20the%20intersection%20of%20semantics%20%26%20APIs-58a6ff?style=for-the-badge&labelColor=0d1117&color=1a3a5c&logo=asana&logoColor=58a6ff" alt="Developer Tooling"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Go%20%7C%20Node.js%20%7C%20Semantic%20Tech-58a6ff?style=for-the-badge&labelColor=0d1117&color=0f1923" alt="Tech Stack"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Approach-Open%20source%20%7C%20Berlin%20based%20%7C%20Precision%20driven-58a6ff?style=for-the-badge&labelColor=0d1117&color=1a3a5c" alt="Approach"/>
 </div>
 
 <br/>
@@ -475,9 +477,11 @@ Bridges two productivity surfaces via browser-layer automation.
 
 <!-- FOOTER TYPING LINE -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=620&lines=Open+source.+Semantic+web.+Developer+tooling.;Building+systems+that+reduce+human+friction.;Berlin+·+monbro+·+github.com%2Fmonbro" alt="Footer"/>
-  </a>
+  <img src="https://img.shields.io/badge/Open%20source%20·%20Semantic%20web%20·%20Developer%20tooling-58a6ff?style=for-the-badge&labelColor=0d1117&color=1a3a5c" alt="Footer Line 1"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Building%20systems%20that%20reduce%20human%20friction-58a6ff?style=for-the-badge&labelColor=0d1117&color=0f1923" alt="Footer Line 2"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Berlin%20·%20monbro%20·%20github.com/monbro-58a6ff?style=for-the-badge&labelColor=0d1117&color=1a3a5c&logo=github&logoColor=58a6ff" alt="Footer Line 3"/>
 </div>
 
 <br/>
