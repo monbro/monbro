@@ -461,7 +461,7 @@ Bridges two productivity surfaces via browser-layer automation.
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/michael-rb-klein/">
-    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='156' height='28' viewBox='0 0 156 28' role='img' aria-label='LinkedIn'%3E%3Crect width='156' height='28' rx='4' fill='%230d2137'/%3E%3Cg fill='%2358a6ff'%3E%3Cpath d='M24.76 10.53c-1.13 0-1.86-.75-1.86-1.69 0-.96.75-1.69 1.9-1.69s1.86.73 1.88 1.69c0 .94-.73 1.69-1.9 1.69h-.02zm-1.65 10.5V11.9h3.32v9.13h-3.32zm5.16 0V11.9h3.18v1.25h.04c.44-.84 1.53-1.72 3.16-1.72 3.38 0 4 2.22 4 5.11v4.49h-3.32v-4.11c0-.98-.02-2.24-1.37-2.24-1.37 0-1.58 1.07-1.58 2.17v4.18h-3.32z'/%3E%3C/g%3E%3Cg fill='%2358a6ff' font-family='Verdana,Geneva,DejaVu Sans,sans-serif' font-size='13' font-weight='700' letter-spacing='.6'%3E%3Ctext x='49' y='18.2'%3ELINKEDIN%3C/text%3E%3C/g%3E%3C/svg%3E" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0d2137?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/monbro?tab=repositories">
